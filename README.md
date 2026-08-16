@@ -19,6 +19,12 @@ only (no Room/database yet), Jetpack Compose UI.
 
 ---
 
+## Mobile App YouTube Video Demonstration Link
+
+https://youtu.be/QPmFQNbdpw8
+
+---
+
 ## What's done
 
 | Area | Razor source | Kotlin/Compose equivalent | Notes |
